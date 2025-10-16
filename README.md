@@ -19,15 +19,9 @@
 </div><br/>
 
 ## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-cristo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-cristo&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
+![Leonardo stats](https://github-readme-stats.vercel.app/api?username=leo-crist&show_icons=true&theme=transparent)
+ 
+
 
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-cristo-4654b02a3/)
