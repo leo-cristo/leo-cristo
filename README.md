@@ -20,6 +20,7 @@
 
 ## GitHub Stats ⚡
 ![Leonardo stats](https://github-readme-stats.vercel.app/api?username=leo-cristo&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-cristo)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
