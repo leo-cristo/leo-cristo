@@ -19,7 +19,7 @@
 </div><br/>
 
 ## GitHub Stats ⚡
-![Leonardo stats](https://github-readme-stats.vercel.app/api?username=leo-crist&show_icons=true&theme=transparent)
+![Leonardo stats](https://github-readme-stats.vercel.app/api?username=leo-cristo&show_icons=true&theme=transparent)
  
 
 
