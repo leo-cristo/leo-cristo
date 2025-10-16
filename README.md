@@ -32,7 +32,8 @@
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-cristo-4654b02a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo__dec/) 
-[![Gmail](https://img.shields.io/badge/-letotec.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:letotec.dev@gmail.com)](mailto:letotec.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-letotec.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letotec.dev@gmail.com)
+
 
   
   
